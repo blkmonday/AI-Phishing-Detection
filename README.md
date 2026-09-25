@@ -211,4 +211,3 @@ CUDA GPU.
 
 - [Building a Virtual HomeLab on macOS](https://github.com/blkmonday/Building-A-Virtual-HomeLab-on-MacOS)
   — Kali + Ubuntu lab for offensive and defensive security practice
-- [Cybersecurity Projects](https://github.com/blkmonday/Cybersecurity-projects) — labs, writeups, and notes
